@@ -150,7 +150,6 @@ def guess(dataset):
   return guess 
 
 
-
 def decisiontree(now,data):
   num_col=len(data[0])
   global leaf
