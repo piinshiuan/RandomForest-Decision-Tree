@@ -24,7 +24,7 @@ https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 若在決策過程中發現分裂節點後之訊息增益降低，則停止剪枝。
   
 ======result======  
-自行實作之在隨機抽樣訓練模型，並利用Testing Data測試達到f1-score=0.6以上之結果
+實作之在隨機抽樣訓練模型，並利用Testing Data測試達到f1-score=0.6以上之結果
 
 
 
