@@ -2,7 +2,7 @@
 Supervised Learning algorithm practice  
 利用決策樹和隨機森林預測明日天氣，並利用f1-score來評定最後結果。  
 *F1-score
-針對資料級label若分配不均(例如label為1之data佔總data 90%，label為0之data佔總data 10%)
+針對資料級label若分配不均(例如label為1之data佔總data 90%，label為0之data佔總data 10%)  
 若利用Accuracy來判定準確率，無法有效衡量模型好壞。
 
 使用資料：kaggle Rain in Australia
