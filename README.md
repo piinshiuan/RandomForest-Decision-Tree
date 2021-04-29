@@ -1,6 +1,5 @@
-# RandomForest-Decision-Tree
-
-人工智慧概論作業  
+# RandomForest-DecisionTree
+Supervised Learning algorithm practice
 利用決策樹和隨機森林預測明日天氣，並利用f1-score來評定最後結果。  
 *F1-score
 針對資料級label若分配不均(例如label為1之data佔總data 90%，label為0之data佔總data 10%)
